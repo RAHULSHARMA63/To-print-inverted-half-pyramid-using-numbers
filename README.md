@@ -1,0 +1,1 @@
+# To-print-inverted-half-pyramid-using-numbers
